@@ -96,5 +96,5 @@
 
 ### Онлайн версия (рекомендуется):
 Просто откройте сайт в браузере:
-https://auradevfp.github.io/auraservercloner/
+[https://auradevfp.github.io/auraservercloner/](https://auradevfp.github.io/auraservercloner/index.html)
 
